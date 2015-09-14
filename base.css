@@ -1,0 +1,19 @@
+@media only screen and (max-device-width:1280px) {
+    .ps-lightbox {
+        top: 10%;
+        height: 585px;
+    }
+    .ps-tab-panel {
+        height: 450px;
+    }
+    .ps-online-seller-listings {
+        height: 340px;
+    }
+    .ps-left-panel {
+        height: 389px;
+    }
+    .ps-map {
+        height: 336px;
+        min-height: 336px;
+    }
+}
